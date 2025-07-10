@@ -1,0 +1,9 @@
+[ 
+   {
+        "audio": "audio_61344.wav",
+        "asr": "The company have designed their own cylinder block and use existing Suzuki cylinder heads",
+        "translation": "\u516c\u53f8\u81ea\u884c\u8bbe\u8ba1\u4e86\u6c7d\u7f38\u4f53\uff0c\u4f7f\u7528\u73b0\u6709\u7684\u94c3\u6728\u6c7d\u7f38\u76d6\u3002",
+        "instruction": "Transcribe the audio to text, and then translate the audio to Chinese. Use <sep> as a separator between the original transcript and the translation.",
+        "duration": 8.59201814058957
+    }
+]

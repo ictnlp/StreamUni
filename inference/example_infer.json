@@ -1,0 +1,233 @@
+[
+    {
+        "audio_path": "en_de/ted_1096.wav",
+        "begin_time": 201760,
+        "end_time": 3744320,
+        "chunks": [
+            {
+                "seg_begin_time": 201760,
+                "chunk_start_time": 201760,
+                "chunk_end_time": 266879,
+                "chunk_duration": 65119,
+                "source_text": "Back in New York, I am the head of development for a non-profit called Robin Hood.",
+                "target_text": "Zu Hause in New York, bin ich Chef der Entwicklungsabteilung einer gemeinn\u00fctzigen Organisation namens Robin Hood."
+            },
+            {
+                "seg_begin_time": 201760,
+                "chunk_start_time": 270400,
+                "chunk_end_time": 352640,
+                "chunk_duration": 82240,
+                "source_text": "When I'm not fighting poverty, I'm fighting fires as the assistant captain of a volunteer fire company.",
+                "target_text": "Wenn ich nicht die Armut bek\u00e4mpfe, bek\u00e4mpfe ich als Gehilfe eines Feuerwehr-Hauptmanns bei einem freiwilligen L\u00f6schzug das Feuer."
+            },
+            {
+                "seg_begin_time": 201760,
+                "chunk_start_time": 360480,
+                "chunk_end_time": 490080,
+                "chunk_duration": 129600,
+                "source_text": "Now in our town, where the volunteers supplement a highly skilled career staff, you have to get to the fire scene pretty early to get in on any action.",
+                "target_text": "Nun, in unserer Stadt, in der Freiwillige eine hochqualifizierte Berufsfeuerwehr unterst\u00fctzten, muss man ziemlich fr\u00fch an der Brandstelle sein, um mitmischen zu k\u00f6nnen."
+            },
+            {
+                "seg_begin_time": 201760,
+                "chunk_start_time": 504320,
+                "chunk_end_time": 529120,
+                "chunk_duration": 24800,
+                "source_text": "I remember my first fire.",
+                "target_text": "Ich erinnere mich an mein erstes Feuer."
+            },
+            {
+                "seg_begin_time": 201760,
+                "chunk_start_time": 533439,
+                "chunk_end_time": 599839,
+                "chunk_duration": 66400,
+                "source_text": "I was the second volunteer on the scene, so there was a pretty good chance I was going to get in.",
+                "target_text": "Ich war der zweite Freiwillige an der Brandstelle, ich hatte also recht gute Chancen hinein zu k\u00f6nnen."
+            },
+            {
+                "seg_begin_time": 201760,
+                "chunk_start_time": 615680,
+                "chunk_end_time": 704800,
+                "chunk_duration": 89120,
+                "source_text": "But still it was a real footrace against the other volunteers to get to the captain in charge to find out what our assignments would be.",
+                "target_text": "Aber es war immer noch ein Wettrennen gegen die anderen Freiwilligen um den verantwortlichen Hauptmann zu erreichen und herauszufinden was unsere Aufgaben sein w\u00fcrden."
+            },
+            {
+                "seg_begin_time": 201760,
+                "chunk_start_time": 718560,
+                "chunk_end_time": 856159,
+                "chunk_duration": 137599,
+                "source_text": "When I found the captain, he was having a very engaging conversation with the homeowner, who was surely having one of the worst days of her life.",
+                "target_text": "Als ich den Hauptmann fand, hatte er gerade in eine sehr ernste Unterhaltung mit der Hausbesitzerin, die sicherlich einen der schlimmsten Tage ihres Lebens hatte."
+            },
+            {
+                "seg_begin_time": 201760,
+                "chunk_start_time": 867199,
+                "chunk_end_time": 1020639,
+                "chunk_duration": 153440,
+                "source_text": "Here it was, the middle of the night, she was standing outside in the pouring rain, under an umbrella, in her pajamas, barefoot, while her house was in flames.",
+                "target_text": "Es war mitten in der Nacht und sie stand im Schlafanzug und barfu\u00df unter einem Schirm drau\u00dfen im str\u00f6menden Regen, w\u00e4hrend ihr Haus in Flammen stand."
+            },
+            {
+                "seg_begin_time": 201760,
+                "chunk_start_time": 1042400,
+                "chunk_end_time": 1335840,
+                "chunk_duration": 293440,
+                "source_text": "The other volunteer who had arrived just before me \u2014 let's call him Lex Luther \u2014 (Laughter) got to the captain first and was asked to go inside and save the homeowner's dog. The dog! I was stunned with jealousy.",
+                "target_text": "Der andere Freiwillige, der knapp vor mir angekommen war \u2014 nennen wir ihn Lex Luther \u2014 (Gel\u00e4chter) erreichte den Hauptmann als erstes und wurde gebeten in das Haus zu gehen und den Hund der Hausbesitzerin zu retten. Den Hund! Ich war sprachlos vor Neid."
+            },
+            {
+                "seg_begin_time": 201760,
+                "chunk_start_time": 1338879,
+                "chunk_end_time": 1504799,
+                "chunk_duration": 165920,
+                "source_text": "Here was some lawyer or money manager who, for the rest of his life, gets to tell people that he went into a burning building to save a living creature, just because he beat me by five seconds.",
+                "target_text": "Da war irgendein Anwalt oder Verm\u00f6gensverwalter, der nun f\u00fcr den Rest seines Lebens, den Menschen erz\u00e4hlen konnte, dass er in ein brennendes Haus ging um ein Lebewesen zu retten, nur weil er f\u00fcnf Sekunden schneller war als ich."
+            },
+            {
+                "seg_begin_time": 201760,
+                "chunk_start_time": 1506400,
+                "chunk_end_time": 1539040,
+                "chunk_duration": 32640,
+                "source_text": "Well, I was next.",
+                "target_text": "Nun, ich war der N\u00e4chste."
+            },
+            {
+                "seg_begin_time": 201760,
+                "chunk_start_time": 1548960,
+                "chunk_end_time": 1571360,
+                "chunk_duration": 22400,
+                "source_text": "The captain waved me over.",
+                "target_text": "Der Hauptmann winkte mich zu sich."
+            },
+            {
+                "seg_begin_time": 201760,
+                "chunk_start_time": 1577280,
+                "chunk_end_time": 1618400,
+                "chunk_duration": 41120,
+                "source_text": "He said, \"Bezos, I need you to go into the house.",
+                "target_text": "Er sagte, \"Bezos, Sie m\u00fcssen in das Haus gehen."
+            },
+            {
+                "seg_begin_time": 201760,
+                "chunk_start_time": 1621280,
+                "chunk_end_time": 1770720,
+                "chunk_duration": 149440,
+                "source_text": "I need you to go upstairs, past the fire, and I need you to get this woman a pair of shoes. \"(Laughter) I swear.",
+                "target_text": "Sie m\u00fcssen nach oben gehen, an dem Feuer vorbei, und m\u00fcssen dieser Frau ein Paar Schuhe holen. \"(Gel\u00e4chter) Ich schw\u00f6re es."
+            },
+            {
+                "seg_begin_time": 201760,
+                "chunk_start_time": 1793920,
+                "chunk_end_time": 2017920,
+                "chunk_duration": 224000,
+                "source_text": "So, not exactly what I was hoping for, but off I went \u2014 up the stairs, down the hall, past the 'real' firefighters, who were pretty much done putting out the fire at this point, into the master bedroom to get a pair of shoes.",
+                "target_text": "Nun, nicht genau das, was ich mir erhofft hatte, doch ich ging los \u2014 die Treppen hoch, den Flur entlang, an den \"echten\" Feuerwehrm\u00e4nnern vorbei, die zu diesem Zeitpunkt mit dem L\u00f6schen schon so ziemlich fertig waren, in das Schlafzimmer um ein Paar Schuhe zu holen."
+            },
+            {
+                "seg_begin_time": 201760,
+                "chunk_start_time": 2018239,
+                "chunk_end_time": 2280799,
+                "chunk_duration": 262560,
+                "source_text": "Now I know what you're thinking, but I'm no hero. (Laughter) I carried my payload back downstairs where I met my nemesis and the precious dog by the front door.",
+                "target_text": "Ich wei\u00df was Sie jetzt denken, aber ich bin kein Held. (Gel\u00e4chter) Ich trug meine Beute zur\u00fcck nach unten, wo ich an der Haust\u00fcr meinen Erzfeind und den geliebten Hund traf."
+            },
+            {
+                "seg_begin_time": 201760,
+                "chunk_start_time": 2301759,
+                "chunk_end_time": 2420319,
+                "chunk_duration": 118560,
+                "source_text": "We took our treasures outside to the homeowner, where, not surprisingly, his received much more attention than did mine.",
+                "target_text": "Wir trugen unsere Sch\u00e4tze nach drau\u00dfen zur Hausbesitzerin, wo, nicht \u00fcberraschend, seiner wesentlich mehr Aufmerksamkeit bekam als meiner."
+            },
+            {
+                "seg_begin_time": 201760,
+                "chunk_start_time": 2435680,
+                "chunk_end_time": 2532159,
+                "chunk_duration": 96479,
+                "source_text": "A few weeks later, the department received a letter from the homeowner thanking us for the valiant effort displayed in saving her home.",
+                "target_text": "Einige Wochen sp\u00e4ter, erhielt die Feuerwache einen Brief der Hausbesitzerin, in dem sie sich f\u00fcr den tapferen Einsatz bei der Rettung ihres Hauses bedankte."
+            },
+            {
+                "seg_begin_time": 201760,
+                "chunk_start_time": 2546400,
+                "chunk_end_time": 2641120,
+                "chunk_duration": 94720,
+                "source_text": "The act of kindness she noted above all others: someone had even gotten her a pair of shoes.",
+                "target_text": "Eine \u00fcber allem Ma\u00dfen gesch\u00e4tzte Freundlichkeit: Jemand hatte ihr sogar ein Paar Schuhe gebracht."
+            },
+            {
+                "seg_begin_time": 201760,
+                "chunk_start_time": 2672320,
+                "chunk_end_time": 2885120,
+                "chunk_duration": 212800,
+                "source_text": "In both my vocation at Robin Hood and my avocation as a volunteer firefighter, I am witness to acts of generosity and kindness on a monumental scale, but I'm also witness to acts of grace and courage on an individual basis.",
+                "target_text": "Sowohl in meinem Beruf bei Robin Hood als auch in meinem Nebenberuf als freiwilliger Feuerwehrmann bin ich Zeuge von Gro\u00dfz\u00fcgigkeit und Freundlichkeit im gro\u00dfen Ma\u00dfstab, aber ich sehe auch Taten der N\u00e4chstenliebe und des Muts von Einzelnen."
+            },
+            {
+                "seg_begin_time": 201760,
+                "chunk_start_time": 2896959,
+                "chunk_end_time": 3124159,
+                "chunk_duration": 227200,
+                "source_text": "And you know what I've learned? They all matter. So as I look around this room at people who either have achieved, or are on their way to achieving, remarkable levels of success, I would offer this reminder: don't wait.",
+                "target_text": "Und wissen Sie was ich gelernt habe? Sie sind alle wichtig. Wenn ich mich also in diesem Raum umsehe und Menschen sehe, die entweder schon einen beachtenswerten Erfolg erreicht haben oder auf ihrem Weg dorthin sind, m\u00f6chte ich folgende Erinnerung anbieten: Warten Sie nicht."
+            },
+            {
+                "seg_begin_time": 201760,
+                "chunk_start_time": 3152320,
+                "chunk_end_time": 3200960,
+                "chunk_duration": 48640,
+                "source_text": "Don't wait until you make your first million to make a difference in somebody's life.",
+                "target_text": "Warten Sie nicht damit, einen Unterschied im Leben eines anderen zu machen, bis Sie Ihre erste Million erreicht haben."
+            },
+            {
+                "seg_begin_time": 201760,
+                "chunk_start_time": 3205440,
+                "chunk_end_time": 3250240,
+                "chunk_duration": 44800,
+                "source_text": "If you have something to give, give it now.",
+                "target_text": "Wenn Sie etwas zu geben haben, geben Sie es jetzt."
+            },
+            {
+                "seg_begin_time": 201760,
+                "chunk_start_time": 3267200,
+                "chunk_end_time": 3336000,
+                "chunk_duration": 68800,
+                "source_text": "Serve food at a soup kitchen. Clean up a neighborhood park. Be a mentor.",
+                "target_text": "Bedienen Sie in einer Suppenk\u00fcche, r\u00e4umen Sie einen Park in der Nachbarschaft auf, seien Sie ein Mentor."
+            },
+            {
+                "seg_begin_time": 201760,
+                "chunk_start_time": 3349440,
+                "chunk_end_time": 3462080,
+                "chunk_duration": 112640,
+                "source_text": "Not every day is going to offer us a chance to save somebody's life, but every day offers us an opportunity to affect one.",
+                "target_text": "Nicht jeder Tag wird uns eine Chance bieten, das Leben eines Menschen zu retten, aber jeder Tag bietet uns die M\u00f6glichkeit, eins zu ver\u00e4ndern."
+            },
+            {
+                "seg_begin_time": 201760,
+                "chunk_start_time": 3470400,
+                "chunk_end_time": 3508960,
+                "chunk_duration": 38560,
+                "source_text": "So get in the game. Save the shoes.",
+                "target_text": "Also legen Sie los; retten Sie die Schuhe."
+            },
+            {
+                "seg_begin_time": 201760,
+                "chunk_start_time": 3518080,
+                "chunk_end_time": 3657600,
+                "chunk_duration": 139520,
+                "source_text": "Thank you.",
+                "target_text": "Vielen Dank."
+            },
+            {
+                "seg_begin_time": 201760,
+                "chunk_start_time": 3658400,
+                "chunk_end_time": 3744320,
+                "chunk_duration": 85920,
+                "source_text": "Bruno Giussani: Mark, Mark, come back.",
+                "target_text": "Bruno Guissani: Mark, Mark, komm zur\u00fcck."
+            }
+        ]
+    }
+]
