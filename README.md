@@ -1,3 +1,6 @@
+
+
+
 # StreamUni: Achieving Streaming Speech Translation with a Unified Large Speech-Language Model
 
 [![model](https://img.shields.io/badge/Huggingface-StreamUni_Phi4-brightgreen)]([https://huggingface.co/ICTNLP/StreamUni-Phi4])
@@ -9,6 +12,12 @@
 </p>
 
 StreamUni is a framework that efficiently enables unified Large Speech-Language Models to accomplish streaming speech translation in a cohesive manner. Experimental results demonstrate that StreamUni efficiently achieves state-of-the-art performance on streaming speech translation tasks across multiple directions.
+
+Our method achieves the state-of-the-art performance on Streaming En-De task and Simultaneous En-Zh task.
+<div style="display: flex;">
+  <img src="https://github.com/ictnlp/StreamUni/blob/main/stream_ende.png" alt="图片1" style="width: 45%; margin-right: 15%;">
+  <img src="https://github.com/ictnlp/StreamUni/blob/main/enzh.png" alt="图片2" style="width: 45%;">
+</div>
 
 
 ## 🔥 Quick Start
