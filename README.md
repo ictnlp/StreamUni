@@ -4,7 +4,9 @@
 [![model](https://img.shields.io/badge/Huggingface-StreamUni_data-brightred)]([https://huggingface.co/datasets/ICTNLP/StreamUni])
 
 > **[Shoutao Guo](https://scholar.google.com/citations?user=XwHtPyAAAAAJ&hl=zh-CN), [Xiang Li](https://scholar.google.com.hk/citations?user=DMfYmIEAAAAJ&hl=zh-CN/), [Shaolei Zhang](https://zhangshaolei1998.github.io/), [Mengge Liu](https://scholar.google.com/citations?user=2WF8LjoAAAAJ&hl=zh-CN), [Wei Chen](https://ieeexplore.ieee.org/author/841945267640363) [Yang Feng*](https://people.ucas.edu.cn/~yangfeng?language=en)**
-
+<p align="center">
+  <img src="https://github.com/ictnlp/StreamUni/blob/main/model.png" alt="Image description" width="800">
+</p>
 
 StreamUni is a framework that efficiently enables unified Large Speech-Language Models to accomplish streaming speech translation in a cohesive manner. Experimental results demonstrate that StreamUni efficiently achieves state-of-the-art performance on streaming speech translation tasks across multiple directions.
 
