@@ -3,9 +3,9 @@
 
 # StreamUni: Achieving Streaming Speech Translation with a Unified Large Speech-Language Model
 
-[![paper](https://img.shields.io/badge/arXiv-2507.07803-b31b1b)]([https://arxiv.org/abs/2507.07803])
-[![model](https://img.shields.io/badge/Huggingface-StreamUni_Phi4-brightgreen)]([https://huggingface.co/ICTNLP/StreamUni-Phi4])
-[![model](https://img.shields.io/badge/Huggingface-StreamUni_data-brightred)]([https://huggingface.co/datasets/ICTNLP/StreamUni])
+[![paper](https://img.shields.io/badge/arXiv-2507.07803-b31b1b)](https://arxiv.org/abs/2507.07803)
+[![model](https://img.shields.io/badge/Huggingface-StreamUni_Phi4-brightgreen)](https://huggingface.co/ICTNLP/StreamUni-Phi4)
+[![model](https://img.shields.io/badge/Huggingface-StreamUni_data-brightred)](https://huggingface.co/datasets/ICTNLP/StreamUni)
 
 > **[Shoutao Guo](https://scholar.google.com/citations?user=XwHtPyAAAAAJ&hl=zh-CN), [Xiang Li](https://scholar.google.com.hk/citations?user=DMfYmIEAAAAJ&hl=zh-CN/), [Mengge Liu](https://scholar.google.com/citations?user=2WF8LjoAAAAJ&hl=zh-CN), [Wei Chen](https://ieeexplore.ieee.org/author/841945267640363) [Yang Feng*](https://people.ucas.edu.cn/~yangfeng?language=en)**
 <p align="center">
