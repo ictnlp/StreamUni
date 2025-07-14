@@ -3,10 +3,11 @@
 
 # StreamUni: Achieving Streaming Speech Translation with a Unified Large Speech-Language Model
 
+[![paper](https://img.shields.io/badge/arXiv-2507.07803-b31b1b)]([https://arxiv.org/abs/2507.07803])
 [![model](https://img.shields.io/badge/Huggingface-StreamUni_Phi4-brightgreen)]([https://huggingface.co/ICTNLP/StreamUni-Phi4])
 [![model](https://img.shields.io/badge/Huggingface-StreamUni_data-brightred)]([https://huggingface.co/datasets/ICTNLP/StreamUni])
 
-> **[Shoutao Guo](https://scholar.google.com/citations?user=XwHtPyAAAAAJ&hl=zh-CN), [Xiang Li](https://scholar.google.com.hk/citations?user=DMfYmIEAAAAJ&hl=zh-CN/), [Shaolei Zhang](https://zhangshaolei1998.github.io/), [Mengge Liu](https://scholar.google.com/citations?user=2WF8LjoAAAAJ&hl=zh-CN), [Wei Chen](https://ieeexplore.ieee.org/author/841945267640363) [Yang Feng*](https://people.ucas.edu.cn/~yangfeng?language=en)**
+> **[Shoutao Guo](https://scholar.google.com/citations?user=XwHtPyAAAAAJ&hl=zh-CN), [Xiang Li](https://scholar.google.com.hk/citations?user=DMfYmIEAAAAJ&hl=zh-CN/), [Mengge Liu](https://scholar.google.com/citations?user=2WF8LjoAAAAJ&hl=zh-CN), [Wei Chen](https://ieeexplore.ieee.org/author/841945267640363) [Yang Feng*](https://people.ucas.edu.cn/~yangfeng?language=en)**
 <p align="center">
   <img src="https://github.com/ictnlp/StreamUni/blob/main/model.png" alt="Image description" width="800">
 </p>
@@ -114,3 +115,22 @@ After running inference scripts, we can obtain the output results, whose example
     echo "Document COMET: "
     comet-score -s $STREAM_SOURCE_FILE -t stream_translation.txt -r $STREAM_TARGET_FILE --model comet-22/model.ckpt
   ```
+
+
+## 🖋Citation
+
+If you have any questions, please feel free to submit an issue or contact `guoshoutao22z@ict.ac.cn`.
+
+If our work is useful for you, please cite as:
+
+```
+@misc{guo2025streamuniachievingstreamingspeech,
+      title={StreamUni: Achieving Streaming Speech Translation with a Unified Large Speech-Language Model}, 
+      author={Shoutao Guo and Xiang Li and Mengge Liu and Wei Chen and Yang Feng},
+      year={2025},
+      eprint={2507.07803},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2507.07803}, 
+}
+```
